@@ -1,0 +1,15 @@
+
+Library:
+------------------------------------
+****Drivers must be added before****
+
+Folder:-> Extra Library jar files
+
+->Right click on Libraries in Eclipes.
+
+------------------------------------
+
+MySql:
+------------------------------------
+officework.sql file must be Imported in PhpMyAdmin.
+------------------------------------
